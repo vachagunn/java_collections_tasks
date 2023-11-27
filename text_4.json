@@ -1,0 +1,26 @@
+[
+  {
+    "number": 0,
+    "firstname": "Vachik",
+    "name": "Arturovich",
+    "age": 23,
+    "salary": 70000,
+    "telnum": "+79222222222"
+  },
+  {
+    "number": 1,
+    "firstname": "Yana",
+    "name": "Andreenva",
+    "age": 21,
+    "salary": 60000,
+    "telnum": "+79555555555"
+  },
+  {
+    "number": 2,
+    "firstname": "Artem",
+    "name": "Vladimirovich",
+    "age": 22,
+    "salary": 65000,
+    "telnum": "+79111111111"
+  }
+]

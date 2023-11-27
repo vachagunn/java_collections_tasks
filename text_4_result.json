@@ -1,0 +1,13 @@
+[ {
+  "number" : 0,
+  "firstname" : "Vachik",
+  "name" : "Arturovich",
+  "salary" : 70000,
+  "age" : 23
+}, {
+  "number" : 2,
+  "firstname" : "Artem",
+  "name" : "Vladimirovich",
+  "salary" : 65000,
+  "age" : 22
+} ]
